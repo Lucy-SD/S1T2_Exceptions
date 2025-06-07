@@ -64,12 +64,10 @@ Thanks for visiting! 🚀
 
 
 
-
-The exercises are organized by level and demonstrate progressive mastery of key OOP concepts.
-
 ---
 
 ## 📚 Exercise Catalog
+The exercises are organized by level and demonstrate progressive mastery of key OOP concepts.
 
 ## 📂 Level 1: Custom Exception & Class Design
 
@@ -82,8 +80,11 @@ Create a `Product` class (with `name` and `price`) and a `Sale` class (with a pr
 - Sum product prices if the list is not empty.  
 - Handle `IndexOutOfBoundsException` explicitly.
 
-## 📂 Level 2 Exercises
+## 📂 Level 2: Robust Input Validation Class
 
+<details>
+<summary><b>Exercise 2: Robust Input Validation Class</b></summary>
+  
 ### 📋 Description
 Create an `Input` class that safely handles user input with comprehensive exception handling using `Scanner`.
 
