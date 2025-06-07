@@ -85,7 +85,7 @@ Create a `Product` class (with `name` and `price`) and a `Sale` class (with a pr
 ## 📂 Level 2: Robust Input Validation Class
 
 <details>
-<summary><b>Exercise 2: Robust Input Validation Class</b></summary>
+<summary><b>Exercise 2: Exception Handling Mastery</b></summary>
   
 ### 📋 Description
 Create an `Input` class that safely handles user input with comprehensive exception handling using `Scanner`.
