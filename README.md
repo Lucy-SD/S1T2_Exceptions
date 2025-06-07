@@ -80,6 +80,8 @@ Create a `Product` class (with `name` and `price`) and a `Sale` class (with a pr
 - Sum product prices if the list is not empty.  
 - Handle `IndexOutOfBoundsException` explicitly.
 
+ </details>
+
 ## 📂 Level 2: Robust Input Validation Class
 
 <details>
@@ -87,18 +89,8 @@ Create a `Product` class (with `name` and `price`) and a `Sale` class (with a pr
   
 ### 📋 Description
 Create an `Input` class that safely handles user input with comprehensive exception handling using `Scanner`.
-
-## 🎯 Requirements
-- Instantiate a `Scanner` object
 - Create static methods to read different data types
 - Handle exceptions and retry until valid input is received
 - Show appropriate error messages (e.g., "Format Error")
 
-## 📝 Methods to Implement
-
-### Handling InputMismatchException
-
-public static byte readByte(String message);
-public static int readInt(String message);
-public static float readFloat(String message); 
-public static double readDouble(String message);
+ </details>
