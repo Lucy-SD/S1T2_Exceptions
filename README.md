@@ -97,7 +97,7 @@ Create an `Input` class that safely handles user input with comprehensive except
 ## 📝 Methods to Implement
 
 ### Handling InputMismatchException
-``java
+
 public static byte readByte(String message);
 public static int readInt(String message);
 public static float readFloat(String message); 
